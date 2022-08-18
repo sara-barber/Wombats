@@ -1,0 +1,13 @@
+body {
+    background: #FFCC00;
+}
+h1 {color: purple;
+background-color: yellow;
+    text-align: right; 
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background: blue;
+    }
+}
